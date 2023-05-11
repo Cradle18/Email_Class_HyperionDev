@@ -1,4 +1,4 @@
-# Emai OOP Simulator
+# Email OOP Simulator
 
 I completed this program as part of my HyperionDev Software Development Fundamentals bootcamp. The task was to create a email simulator using OOP, that met the following criteria: 
 
